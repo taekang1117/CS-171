@@ -21,3 +21,14 @@
 | Uses "algernating optimization" or "block coordinate descent" | Uses "greedy optimization" |
 | Fixing all but one variable, update the rest | Makes a locally optimal (**greedy**) choice |
 | Iterate over all variables <br> Iterate until convergence | Also uses heuristics on top of that |
+
+## Single-linkage & Minimum Spannig Tree
+##### Minimum Spanning Tree
+<img width="610" height="310" alt="Screenshot 2025-11-10 at 2 29 08 PM" src="https://github.com/user-attachments/assets/abf0ae59-28df-4691-b2dc-1083e88d2590" />
+
+* Can be shown that those problems are equivalent
+  * See: Gower and Ross, *Minimum Spanning Trees and Single Linkage Cluster Analysis*, Journal of the Royal Statistical Society, 1969
+* Greedy algorithms can give (one of the many) MST optimal solution
+  * Kruskal's algorithm
+  * Prim's algorithm
+* This also carries over for Single-linkage Hierarchical Clustering 
