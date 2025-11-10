@@ -3,6 +3,17 @@
 #### Partitioning Methods
 #### Hierarchical Methods
 
+## What is Cluster Analysis? 
+##### Cluster: A collection of data: A collection of data objects
+- similar (or related) to one another within the same group
+- dissimilar (or undrelated) to the objects in other groups 
+
+#### Cluster analysis (or clustering) 
+* Finding similarities between data according to the characteristics found in the data and grouping similar data objects into clusters
+
+#### Typical Applications
+- As a **stand-alone tool** to get insight into data distribution
+- As a **preprocessing step** for other algorithms 
 
 
 # DIANA (Divisive Analysis)
