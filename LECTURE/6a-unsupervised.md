@@ -1,3 +1,10 @@
+# Roadmanp
+#### Cluster Analysis: Basic Concepts
+#### Partitioning Methods
+#### Hierarchical Methods
+
+
+
 # DIANA (Divisive Analysis)
 * Introduced in Kaufamann and Rousseeuw (1990)
 * Inverse order of AGENS
