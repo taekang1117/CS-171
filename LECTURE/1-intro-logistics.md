@@ -104,5 +104,28 @@ Credic card fraud detection, direct marketing, classifying stars, diseases, web-
 <img width="637" height="216" alt="Screenshot 2025-11-11 at 8 26 45 AM" src="https://github.com/user-attachments/assets/cd8cf57b-a0c2-4615-ad66-6b4e98479209" />
 
 ## II. Data Objects
+* Data sets are made up of data objecst
+* A **data object** represents an **entity**
 
+#### Examples
+* Sales Database: customers, store items, sales
+* Medical Database: patients, treatments
+* University Database: students, professors, courses
+
+* Also called samples, examples, instances, data points, objects, **tuples**
+* Data objects are described by **attributes** or **features**
+
+> Rows -> data objects [Horizontal]
+> Columns -> attributes [Vertical]
+
+## III. Features
+### Features (or attributes, dimensions, variables)
+A data field, representing a characteristic of feature of a data object. 
+ * E.g., customer_ID, name, address
+
+## Types of Features
+* Nominal/Categorical
+* Binary
+* Ordinal
+* Numerical: quantitative
 
