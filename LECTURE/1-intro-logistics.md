@@ -63,13 +63,13 @@ Decision trees, naive Bayesian classification, support vector machines, neural n
 ### Typical Applications
 Credic card fraud detection, direct marketing, classifying stars, diseases, web-pages
 
-## Clustering
+## VII. Clustering
 * Unsupervised leraning (i.e., Class label is unknown)
 * Group data to form new categories (i.e., clusters), e.g., cluster documents according to topics
 * Principle: Maximizing intra-class similarity & minimizing interclass similarity
 * Many methods and applications
 
-## VII. Outlier & Anomaly Detection
+## VIII. Outlier & Anomaly Detection
 ### Outlier Analysis
 * Outlier: A data object that does not comply with the general behavior of the data
 * Noise or exception? One person's garbage could be another person's treasure
