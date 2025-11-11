@@ -20,7 +20,9 @@ Study of algorithms that
 #### Computational Entomology
 > Given sensor measurements of insects classify them by species/gender
 
+## What Is Data Mining?
+Knowledge discovery from data 
+* Extraction of ***interesting*** (non-trival, implicit, previously unkown, and potentially useful) patterns or knowldege from huge amounts of data
 
-
-
-
+Alternative names
+* Data science, knowledge discovery (mining) in databases (KDD), knowledge extraction, data/pattern analysis, business intelligence, etc.
