@@ -152,3 +152,15 @@ Categories, states, or "names of things"
 ### Ordinal 
 * Values have a meaningful order (ranking) but magnitude between successive values is not known
 * Size = {small, medium, large}, grades, army rankings
+
+## IV. Discrete vs. Cotinuous Numerical Features
+### Discrete Feature
+* Has only finite or countably infinite set of values
+ * E.g., zip codes, profession, or the set of words in a collection of documents
+* Sometimes, represented as integer variables
+
+### Continuous Feature
+* Has real numbers as feature values
+  * E.g., temperature, height, or weight
+* Practically, real values can only be measured and represented using a finite number of digits
+* Continuous features are typically represented as floating-point variables
