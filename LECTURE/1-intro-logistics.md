@@ -26,3 +26,25 @@ Knowledge discovery from data
 
 Alternative names
 * Data science, knowledge discovery (mining) in databases (KDD), knowledge extraction, data/pattern analysis, business intelligence, etc.
+
+## The Data Science Pipeline
+1. Raw Data
+2. Pre-processing (data integration, data cleaning, feature selection, dimension reduction)
+3. Analysis (pattern discovery, association and correlation, classification, clustering, outlier analysis)
+4. Post-processing (evaluation, interpretation, visualization)
+5. Knowledge
+<img width="637" height="345" alt="Screenshot 2025-11-11 at 8 11 49 AM" src="https://github.com/user-attachments/assets/c7e68984-65ca-4772-82b5-35f549ca5ee1" />
+
+## Supervised vs. Unsupervised 
+## 🧠 Supervised vs. Unsupervised Learning
+
+| Feature | **Supervised Learning** | **Unsupervised Learning** |
+|----------|--------------------------|----------------------------|
+| **Labeling** | Uses **labeled** examples | Uses **unlabeled** data |
+| **Goal** | Learn a model that **generalizes** to unseen examples | Learn a model that **finds structure or patterns** in data |
+| **Input** | (x, y) pairs — data with known outputs | x only — data without labels |
+| **Example Task** | **Classification**, Regression | **Clustering**, Dimensionality Reduction |
+| **Key Idea** | Train with answers provided | Discover hidden structure automatically |
+
+
+## What classes of methods are there
