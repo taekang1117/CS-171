@@ -9,16 +9,16 @@
 Machine Learning by Tom M. Mitcheli
 
 ## Grading 
-#### 3 Coding Assignments [25%]
+### 3 Coding Assignments [25%]
 2.5% + 12% + 8% respectively
 2.5% mandatory video code walkthrough
 
-#### 2 Quizzes [20%]
+### 2 Quizzes [20%]
 10% + 10% respectively
 
-#### Midterm exam [20%]
-#### Final exam [35%]
-#### Extra credit assignment [5%]
+### Midterm exam [20%]
+### Final exam [35%]
+### Extra credit assignment [5%]
 with mandatory video walkthrough 
 
 
