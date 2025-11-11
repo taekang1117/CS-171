@@ -123,9 +123,32 @@ Credic card fraud detection, direct marketing, classifying stars, diseases, web-
 A data field, representing a characteristic of feature of a data object. 
  * E.g., customer_ID, name, address
 
-## Types of Features
+## III. Types of Features
 * Nominal/Categorical
 * Binary
 * Ordinal
 * Numerical: quantitative
 
+### Nominal or Cateogrical
+Categories, states, or "names of things"
+* Hair color = {black, blond, brown, grey, red, white}
+* Marital status, occupation, ID numbers, zip codes
+
+### One-hot Encoding
+* Very convenient way of representing categorical features
+* Create a vector with as many values as categories
+* Mark with '1' the positon that corresponds to the valeu that our data point has
+* Leave everything else '0' (all 0s can be implied, no need to store as actual numbers)
+* We can represent classification outcome this way
+<img width="637" height="155" alt="Screenshot 2025-11-11 at 8 37 40 AM" src="https://github.com/user-attachments/assets/8d0d0051-c51e-4d0e-8d0f-cbe76801e4bb" />
+
+### Binary
+* Nominal feature with only 2 states (0 and 1)
+* Symmetric binary: both outcomes equally important
+* Assymetric binary: outcomes not equally important.
+  * e.g., medical test (positive, negative)
+  * Convention: assign 1 to most important outcome
+
+### Ordinal 
+* Values have a meaningful order (ranking) but magnitude between successive values is not known
+* Size = {small, medium, large}, grades, army rankings
