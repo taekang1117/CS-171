@@ -36,8 +36,6 @@ Alternative names
 <img width="637" height="345" alt="Screenshot 2025-11-11 at 8 11 49 AM" src="https://github.com/user-attachments/assets/c7e68984-65ca-4772-82b5-35f549ca5ee1" />
 
 ## Supervised vs. Unsupervised 
-## 🧠 Supervised vs. Unsupervised Learning
-
 | Feature | **Supervised Learning** | **Unsupervised Learning** |
 |----------|--------------------------|----------------------------|
 | **Labeling** | Uses **labeled** examples | Uses **unlabeled** data |
@@ -46,5 +44,21 @@ Alternative names
 | **Example Task** | **Classification**, Regression | **Clustering**, Dimensionality Reduction |
 | **Key Idea** | Train with answers provided | Discover hidden structure automatically |
 
-
 ## What classes of methods are there
+* Classification & regression (supervised)
+* Clustering (unsupervised)
+* Outlier & Anomaly Detection
+* Association and Rule Mining
+
+## Classification & Regression
+### Classification and labe prediction
+* Construct models (functions) based on some training examples <br>
+* Describe and distinguish classes or concepts for future prediction
+  * E.g., classify countries based on (climate), or classify cars based on (gas mileage)
+* Predict some unknown class labels
+
+### Typical methods
+Decision trees, naive Bayesian classification, support vector machines, neural networks, rule-based classification, pattern-based classification, logistic regression
+
+### Typical applications
+Credic card fraud detection, direct marketing, classifying stars, diseases, web-pages
