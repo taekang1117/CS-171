@@ -8,16 +8,16 @@ Study of algorithms that
 - with experience
 
 ## Examples
-#### Google Photos 
+* Google Photos 
 > Uses machine learning to automatically categorize photos into different classes
 
-#### Stock Market Prediction
-#### Image Captioning
-#### Self-driving Car
-#### Mind Reading
-#### Recommender Systems
-#### Credit Card Fraud Detection
-#### Computational Entomology
+* Stock Market Prediction
+* Image Captioning
+* Self-driving Car
+* Mind Reading
+* Recommender Systems
+* Credit Card Fraud Detection
+* Computational Entomology
 > Given sensor measurements of insects classify them by species/gender
 
 ## What Is Data Mining?
