@@ -9,6 +9,18 @@ Study of algorithms that
 
 ### Example
 #### Google Photos 
-Uses machine learning to automatically categorize photos into different classes
+> Uses machine learning to automatically categorize photos into different classes
+
+#### Stock Market Prediction
+#### Image Captioning
+#### Self-driving Car
+#### Mind Reading
+#### Recommender Systems
+#### Credit Card Fraud Detection
+#### Computational Entomology
+> Given sensor measurements of insects classify them by species/gender
+
+
+
 
 
