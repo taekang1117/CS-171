@@ -51,14 +51,28 @@ Alternative names
 * Association and Rule Mining
 
 ## Classification & Regression
-### Classification and labe prediction
+### Classification And Label Prediction
 * Construct models (functions) based on some training examples <br>
 * Describe and distinguish classes or concepts for future prediction
   * E.g., classify countries based on (climate), or classify cars based on (gas mileage)
 * Predict some unknown class labels
 
-### Typical methods
+### Typical Methods
 Decision trees, naive Bayesian classification, support vector machines, neural networks, rule-based classification, pattern-based classification, logistic regression
 
-### Typical applications
+### Typical Applications
 Credic card fraud detection, direct marketing, classifying stars, diseases, web-pages
+
+## Clustering
+* Unsupervised leraning (i.e., Class label is unknown)
+* Group data to form new categories (i.e., clusters), e.g., cluster documents according to topics
+* Principle: Maximizing intra-class similarity & minimizing interclass similarity
+* Many methods and applications
+
+## Outlier & Anomaly Detection
+### Outlier Analysis
+* Outlier: A data object that does not comply with the general behavior of the data
+* Noise or exception? One person's garbage could be another person's treasure
+* Methods: by product of clustering or regression analysis
+> Useful in fraud detection, rare events analysis
+
